@@ -8,7 +8,7 @@
 #  \__|_|   \__,_|_| |_|\___\__,_|\__\___|_|  |_|  \_\_|                                                          
 
 
-# Python tool that 'truncates' CoPilot GPS (TM) trip files (.trp). Essentialy making a smaller, self-contained trip out of a larger one.
+# Python tool that 'truncates' CoPilot™ GPS trip files (.trp). Essentialy making a smaller, self-contained trip out of a larger one.
 # No breach of any copyright was intended.
 
 # Made by Rodrigo Rosmaninho (2018)
