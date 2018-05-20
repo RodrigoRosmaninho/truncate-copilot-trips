@@ -10,4 +10,6 @@ However, this poses problems, as it's much easier and more intuitive to have sma
 
 Therefore, I made this Python tool that reads a **.trp** file, prints all the stops, and lets the user select a start and end points for the creation of a smaller file, while preserving the original. This way, a user can create 'sub-trips' of the main trip at will, making navigation easier and avoiding CoPilot slowdowns.
 
+![](https://github.com/RodrigoRosmaninho/truncate-copilot-trips/blob/master/screenshots/truncateTRP.png?raw=true)
+
 No breach of any copyright was intended
