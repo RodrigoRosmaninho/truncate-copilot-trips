@@ -1,4 +1,4 @@
-# truncateTRP
+# truncate-copilot-trips
 
 [CoPilot™ GPS](https://copilotgps.com) is a mobile GPS app that allows for the planning of road trips in advance. These trips consist of an ordered list of stops and are saved in **.trp** files.
 
