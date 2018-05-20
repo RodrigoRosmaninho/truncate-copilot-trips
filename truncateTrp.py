@@ -12,7 +12,7 @@
 # No breach of any copyright was intended.
 
 # Made by Rodrigo Rosmaninho (2018)
-# Github Repository: https://github.com/RodrigoRosmaninho/truncateTRP
+# Github Repository: https://github.com/RodrigoRosmaninho/truncate-copilot-trips
 
 import traceback, argparse, sys, os.path, subprocess
 
